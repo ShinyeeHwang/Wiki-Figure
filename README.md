@@ -1,3 +1,3 @@
 # Wiki-Figure
 
-@ Obsidian Markdowm
+@ Obsidian Markdown
