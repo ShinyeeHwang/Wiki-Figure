@@ -1,4 +1,3 @@
 # Wiki-Figure
-```javascript
-123
-```
+
+@ Obsidian Markdowm
